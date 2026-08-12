@@ -18,3 +18,4 @@ The current `GoogleSheetRepository` interface isolates data access from the Andr
 2. Reads delivery boys from a `DeliveryBoys` sheet with `id` and `name` columns.
 3. Appends every deposit to a `CodEntries` sheet with date, delivery-boy, total, cash, online, and due columns.
 4. Reads entries back to show each delivery boy's total due amount.
+
